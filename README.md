@@ -4,7 +4,7 @@
 
 1. Бизнес-аналитика сервиса доставки еды (ноябрь 2025)
 - Задача: создание системы метрик для оценки эффективности сервиса
-- Действия: [рассчитаны ключевые бизнес-метрики с помощью SQL](Food_delivery_service_metrics_educational_case.sql), создана [интерактивная BI-визуализация в Yandex Datalens](https://datalens.yandex/jxjqgitlt0jo4), подготовлен аналитический отчёт (вкладка 2 [дашборда](https://datalens.yandex/jxjqgitlt0jo4](https://datalens.yandex/jxjqgitlt0jo4?tab=51))
+- Действия: [рассчитаны ключевые бизнес-метрики с помощью SQL](Food_delivery_service_metrics_educational_case.sql), создана [интерактивная BI-визуализация в Yandex Datalens](https://datalens.yandex/jxjqgitlt0jo4), подготовлен аналитический отчёт (вкладка 2 [дашборда](https://datalens.yandex/jxjqgitlt0jo4](https://datalens.yandex/jxjqgitlt0jo4?tab=51))).
 - Результат: создана система мониторинга клиентской базы, подготовлены рекомендации по развитию
 
 2. A/B-тестирование для e-commerce платформы (январь 2026)
